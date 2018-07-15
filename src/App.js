@@ -9,6 +9,7 @@ class App extends Component {
         TEST GIT AT WEBSTORM
           asfasfafasfasfas
         afasfasfasfafasfafa
+          this text i wrong commit
       </div>
     );
   }

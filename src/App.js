@@ -11,6 +11,7 @@ class App extends Component {
         afasfasfasfafasfafa
           this text i wrong commit
       this text i add into the origin
+      add new text at origin
       </div>
     );
   }

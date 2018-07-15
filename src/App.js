@@ -10,6 +10,7 @@ class App extends Component {
           asfasfafasfasfas
         afasfasfasfafasfafa
           this text i wrong commit
+      this text i add into the origin
       </div>
     );
   }

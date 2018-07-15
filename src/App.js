@@ -14,6 +14,7 @@ class App extends Component {
       add new text at origin
       
       new TEZT nefore pull rebase
+
       </div>
     );
   }

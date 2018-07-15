@@ -12,6 +12,8 @@ class App extends Component {
           this text i wrong commit
       this text i add into the origin
       add new text at origin
+      
+      new TEZT nefore pull rebase
       </div>
     );
   }
